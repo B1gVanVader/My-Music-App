@@ -1,4 +1,4 @@
-# Brock's Music Player
+# Nathan's Personal Audio
 
 
 **A material designed local music player for Android.**
